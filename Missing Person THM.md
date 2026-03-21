@@ -1,5 +1,5 @@
 # Writeup Missing Person TryHackMe
-Link: https://tryhackme.com/room/missingperson/
+[Link do pokoju na THM](https://tryhackme.com/room/missingperson/)
 ### Potrzebne narzędzia ;)
 * mózg
 * komputer, laptop, (telefon jeżeli jesteś masochistą)
@@ -12,7 +12,7 @@ Link: https://tryhackme.com/room/missingperson/
 
 Wystarczy użyć wyszukiwania obrazem google (https://images.google.com/) i wkleić obraz.
 
-![[MotoGP.jpg]]
+![](assets/MissingPersonTHM/MotoGP.jpg)
 
 Dostaniemy identycznie wyszukiwanie i łatwo będzie nam znaleźć, że szukaną nazwą jest:
 
@@ -33,7 +33,7 @@ Odpowiedź: `03-05/10/2025`
 
 Wyszukując drugi obraz w google image search dostaniemy identyczny obraz po którym łatwo będzie dojść że ta restauracja to "Cantina Mexicana Kuta Lombok", gdzie Kuta to miasto, a Lombok to wyspa.
 
-![[food.jpg]]
+![](assets/MissingPersonTHM/food.jpg)
 
 Odpowiedź: `Cantina Mexicana`
 
@@ -43,7 +43,7 @@ Odpowiedź: `Cantina Mexicana`
 
 Trywialne, wystarczy sprawdzić metadane
 
-![[Pasted image 20260317182539.png]]
+![](assets/MissingPersonTHM/photo1.png)
 
 Odpowiedź: `19:55:30`
 
@@ -71,7 +71,7 @@ Odpowiedź: `Bong Leleh`
 
 Gdy wrócimy do google mapsa i lokalizacji baru, to możemy oddalić troche by widzieć większy obszar i wyszukać: "cave", wyskoczy nam pare lokalizacji ale znamy format odpowiedzi": xxx xxxxx więc możemy łatwo dopasować pasującą jaskinie.
 
-![[Pasted image 20260317181317.png]]
+![](assets/MissingPersonTHM/photo2.png)
 
 Będą 2 pasujące jaskinie do formatu odpowiedzi ale metodą prób i błędów zgadniemy szybko o którą chodzi (tą co ma więcej opini).
 (Szczerze nie wiem o co chodzi, ale jedna to jest "Bat Cave" a druga "Mystical Neverland Bat Cave" to taka ciekawostka którą odkryłem.)
