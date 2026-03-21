@@ -4,4 +4,4 @@ Moje rozwiązania CTF.
 ---
 
 ### Mój pierwszy writeup:
-- [Missing Person TryHackMe](Missing Person THM.md) - Zadanie OSINT.
+- [Missing Person TryHackMe](Missing-Person-THM.md) - Zadanie OSINT.
