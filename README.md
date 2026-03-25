@@ -1,7 +1,6 @@
 # CTF-writeups
-Moje rozwiązania CTF.
 
----
 
-### Mój pierwszy writeup:
-- [Missing Person TryHackMe](Missing-Person-THM.md) - Zadanie OSINT.
+### My writeups:
+- [Missing Person TryHackMe](Missing-Person-THM.md) - OSINT (In Polish).
+- [Wonderland TryHackMe](Wonderland.md)
